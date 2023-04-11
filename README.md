@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me khushiagarwal0320@gmail.com
+- 🌀 For data science related projects Kaggle: khushagg 
 
 <!---
 KhushiAgg/KhushiAgg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
